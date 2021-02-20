@@ -30,7 +30,7 @@ POS机SDK主要提供如下功能：
 
 ## 2.环境信息
 
-Android 4.0及以上
+Android系统 4.0及以上
 
 ## 3.Java SDK使用说明
 
