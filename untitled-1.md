@@ -6,7 +6,14 @@ Andorid DemoAPP\_v3.0.1\(4.57MB\)：[下载](http://d.7short.com/AndroidDemo) IO
 
 Android SDK:[前往](https://gitlab.com/dspread/android) IOS SDK:[前往](https://gitlab.com/dspread/ios)
 
-【版本更新记录】 2021-01-12： v3.2.3增加了updateIPEKOperationByKeyType接口 2020-12-18 v3.2.2、v3.2.1给createInsecureRfcommSocketToServiceRecord添加注释以及修改getEncryptData接口添加了AES特征 2020-12-17 v.3.2.0修正有关cashback在1630中的指令bug
+【版本更新记录】
+
+| 更新时间 | 更新版本 | 描述 |
+| :--- | :--- | :--- |
+| 2021--02-20 | v3.2.6 | 更新兼容D20和其他串口设备连接方式 |
+| 2021-01-12 |  v3.2.3 | 增加了updateIPEKOperationByKeyType接口 |
+| 2020-12-18 | v3.2.2 | 修改getEncryptData接口添加了AES特征  |
+| 2020-12-17 | v.3.2.0 | 修正有关cashback在1630中的指令bug |
 
 _注：_ _SDK支持Android 4.0及以上系统环境_
 
