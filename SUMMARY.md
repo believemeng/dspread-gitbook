@@ -7,7 +7,3 @@
   * [D20](she-bei/d20.md)
 * [SDK](untitled-1.md)
 
-## 设备介绍
-
-* [Untitled](she-bei-jie-shao/untitled.md)
-
